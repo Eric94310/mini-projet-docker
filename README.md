@@ -26,7 +26,7 @@ SPRING_DATASOURCE_PASSWORD=yyyyyyyyy
 pour l'exiercie j'ai creer un regritry en local sur mon localhost en http voir screen  mais en entreprise il faudrait securisé le registre afin de le joindre à distance pour recuperer les images par n'impote qui ==> generer un certificat en TLS 
 
 </> Markdown
-
+![Registry Private](screen_registry_private.JPG)
 
 
 
